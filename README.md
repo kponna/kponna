@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Krishnaveni Ponna</h1>
 <h3 align="center">I'm passionate about Data Science, ML, MLops and stuff</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kponna&label=Profile%20views&color=0e75b6&style=flat" alt="kponna" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kponna&label=Profile%20views&color=0e75b6&style=flat" alt="kponna" /> </p>
 
+- 🔭 My latest projects: **[Health Insurance Cross Sell Prediction - Mlops](https://github.com/kponna/Health-Insurance-Cross-Sell-Prediction-Mlops), [Energy Generation Predictor - Mlops](https://github.com/kponna/Energy-Generation-Predictor-MLops)**
 - 🌱 I’m currently learning **Deep learning, MLops, GenAI**
 
 - 💬 Ask me about **Machine Learning, NLP, MLOps, Deep Learning, Data Science**
 
-- 📫 How to reach me **ponnakrishnaveni76@gmail.com**
+- 📫 You can reach out to me at **ponnakrishnaveni76@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
