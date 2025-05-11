@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kponna&label=Profile%20views&color=0e75b6&style=flat" alt="kponna" /> </p>
 
-- 🔭 My latest projects: **[Health Insurance Cross Sell Prediction - Mlops](https://github.com/kponna/Health-Insurance-Cross-Sell-Prediction-Mlops), [Energy Generation Predictor - Mlops](https://github.com/kponna/Energy-Generation-Predictor-MLops)**
-- 🌱 I’m currently learning **Deep learning, MLops, GenAI**
+- 🔭 My latest projects: **[Personalised AI Tutor - Robin](https://github.com/kponna/Robin_Personalised_AI_Tutor), [SonicSeller - AI Sales assistant](https://github.com/kponna/SonicSeller---AI-Sales-Assistant),[Health Insurance Cross Sell Prediction - Mlops](https://github.com/kponna/Health-Insurance-Cross-Sell-Prediction-Mlops), [Energy Generation Predictor - Mlops](https://github.com/kponna/Energy-Generation-Predictor-MLops)**
+- 🌱 I’m currently learning **Deep learning, MLops, GenAI, AI Agents**
 
 - 💬 Ask me about **Machine Learning, NLP, MLOps, Deep Learning, Data Science**
 
